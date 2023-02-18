@@ -1,4 +1,4 @@
-# Statistical-Computing
+# Decryption using Markov chain Monte Carlo (MCMC)
 
 Markov chain Monte Carlo (MCMC) samplers are algorithms that enable you to sample values from a probability distribution that is only known up to a normalization constant. In this project, I implemented MCMC sampler for decrypting encrypted text as described in this publication: J. Chen and J. S. Rosenthal, Decrypting classical cipher text using Markov chain Monte Carlo, Statistics and Computing 22, 397–413, 2012.
 
